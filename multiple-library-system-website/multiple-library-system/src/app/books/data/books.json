@@ -1,0 +1,7 @@
+{
+    "books": {
+      "#key1": "Buddhi",
+      "#key2": "some value",
+      "#key3": 1234
+    }
+  }
